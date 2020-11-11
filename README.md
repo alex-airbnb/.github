@@ -56,7 +56,9 @@ terraform get
 
 | Name           | Description       |
 | :---:          | :---:             |
-| repository_name | Name of the GitHub repository. |
+| alex_airbnb_repository_name | Name of the alex_airbnb repository. |
+| alex_airbnb_repository_url | URL of the alex_airbnb repository. |
+| ssh_url_alex_airbnb_repository | SSH URL to clone the alex_airbnb repository. |
 
 ## License
 
