@@ -17,22 +17,6 @@ resource "github_repository" "alex_airbnb_repository" {
   topics = var.repository_topics
 }
 
-resource "github_branch_protection" "master_branch_protection" {
-  repository     = github_repository.alex_airbnb_repository.name
-  branch         = "master"
-  enforce_admins = false
-
-  required_status_checks {
-    strict   = true
-    contexts = []
-  }
-
-  required_pull_request_reviews {
-    dismiss_stale_reviews           = true
-    required_approving_review_count = 1
-  }
-}
-
 resource "github_issue_label" "feature_label" {
   repository  = github_repository.alex_airbnb_repository.name
   name        = "FEATURE"
