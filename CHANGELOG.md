@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/alex-airbnb/.github/compare/v1.3.0...v1.4.0) (2020-11-24)
+
+
+### Features
+
+* Add PROPOSAL template. ([7e0b80a](https://github.com/alex-airbnb/.github/commit/7e0b80aa86d1a943f96ee0b06929ddf95e74e031))
+
 # [1.3.0](https://github.com/alex-airbnb/.github/compare/v1.2.0...v1.3.0) (2020-11-24)
 
 
