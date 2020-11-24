@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/alex-airbnb/.github/compare/v1.1.0...v1.2.0) (2020-11-24)
+
+
+### Features
+
+* Add PULL_REQUEST_TEMPLATE. ([cd3414a](https://github.com/alex-airbnb/.github/commit/cd3414ad38e01af33b2a83fc90a302828604f678))
+
 # [1.1.0](https://github.com/alex-airbnb/.github/compare/v1.0.0...v1.1.0) (2020-11-13)
 
 
