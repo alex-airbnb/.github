@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/alex-airbnb/.github/compare/v1.2.0...v1.3.0) (2020-11-24)
+
+
+### Features
+
+* Add FEATURE template. ([6d899ec](https://github.com/alex-airbnb/.github/commit/6d899eca20439ae40713a7190336aa6ee00d1aba))
+
 # [1.2.0](https://github.com/alex-airbnb/.github/compare/v1.1.0...v1.2.0) (2020-11-24)
 
 
