@@ -1,6 +1,6 @@
 # .github
 
-All the code and resources used for the organization's management of the alex-airbnb project.
+All the code and resources used for the organization's management of the [alex-airbnb](https://github.com/alex-airbnb/alex_airbnb) project.
 
 [![<alex-airbnb>](https://circleci.com/gh/alex-airbnb/.github.svg?style=svg)](https://circleci.com/github/alex-airbnb/.github)
 
