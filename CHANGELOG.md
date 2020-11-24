@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/alex-airbnb/.github/compare/v1.4.0...v1.5.0) (2020-11-24)
+
+
+### Features
+
+* Enable issues in the alex_airbnb repository. ([0ead060](https://github.com/alex-airbnb/.github/commit/0ead060323d9dc5b9628ecede85982abc890191b))
+
 # [1.4.0](https://github.com/alex-airbnb/.github/compare/v1.3.0...v1.4.0) (2020-11-24)
 
 
