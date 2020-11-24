@@ -40,6 +40,9 @@ terraform get
 
 ## GitHub Templates
 
+- [FEATURE](./.github/ISSUE_TEMPLATE/FEATURE.md)
+- [PULL_REQUEST_TEMPLATE](./.github/PULL_REQUEST_TEMPLATE.md)
+
 ## Terraform Modules
 
 - [alex_airbnb_repository](./modules/alex_airbnb_repository/README.md)
