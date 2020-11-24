@@ -41,6 +41,7 @@ terraform get
 ## GitHub Templates
 
 - [FEATURE](./.github/ISSUE_TEMPLATE/FEATURE.md)
+- [PROPOSAL](./.github/ISSUE_TEMPLATE/PROPOSAL.md)
 - [PULL_REQUEST_TEMPLATE](./.github/PULL_REQUEST_TEMPLATE.md)
 
 ## Terraform Modules
