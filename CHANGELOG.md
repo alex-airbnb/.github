@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/alex-airbnb/.github/compare/v1.5.0...v1.6.0) (2021-02-17)
+
+
+### Features
+
+* Add account_api_repository. ([433efe9](https://github.com/alex-airbnb/.github/commit/433efe96f5a687bfb6b1dac018a765d68220cdd1))
+
 # [1.5.0](https://github.com/alex-airbnb/.github/compare/v1.4.0...v1.5.0) (2020-11-24)
 
 
